@@ -46,11 +46,11 @@ Contact Page: Contains phone and email support visuals.
 
 ## Author
 
-Developed by [Karthiga P] (https://github.com/KarthigaP20))
+Developed by [ Karthiga P](https://github.com/KarthigaP20)
 
 ## Live Demo
 
-Check out the live version: [Greenden Website](https://karthigap20.github.io/Greenden-TailwindCSS/))
+Check out the live version: [Greenden Website](https://karthigap20.github.io/Greenden-TailwindCSS/)
 
 ## Thanks
 
