@@ -40,9 +40,24 @@ Greenden-TailWindCSS/
 
 ## Screenshots
 
-Home Page: [Include a screenshot or demo gif]  
-Products Page: Displays a collection of plant cards.  
-Contact Page: Contains phone and email support visuals.
+### 1. Home Page  
+![Home Page](./Screenshots/Homepage.jpg)
+
+### 2. Customer Review Page 
+![Customer Review Page](./Screenshots/CustomerReview.jpg)
+
+### 3. Product Page
+![Product Page](./Screenshots/Productpage.jpg)
+
+### 4. Contact Page
+![Contact Page](./Screenshots/Contactpage.jpg)
+
+### 5. Responsive View
+![Contact Page](./Screenshots/Responsive.png)
+
+### 6. Mobile View
+![Contact Page](./Screenshots/Responsiveview.png)
+
 
 ## Author
 
